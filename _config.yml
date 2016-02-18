@@ -1,6 +1,6 @@
 name: mckibz
 favicon: null
-layout_spectrum: 0.24865
+layout_spectrum: 0.9994
 typography_spectrum: 0.31293
 title: MC Kibz
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.6875
   lightness: 0.5625
   saturation: 0.125
-  rhythmicContrast: 1
+  rhythmicContrast: 0.75
 purpose: []
